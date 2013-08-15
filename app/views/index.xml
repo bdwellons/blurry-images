@@ -1,10 +1,14 @@
 <Alloy>
 	<Window class="container">
 		<View class="top">
-			
+			<ImageView id="topImg" image="images/btn-acf.png" />
 		</View>
 		<View class="bottom">
-
+			<ScrollView>
+				<View class="parent">
+					<ImageView id="btmImg" image="images/btn-acf.png" />
+				</View>
+			</ScrollView>
 		</View>
 
 
