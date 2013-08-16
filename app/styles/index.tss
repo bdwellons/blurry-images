@@ -21,7 +21,7 @@
 	height: 59,
 	bottom: 0
 },
-"btmImg": {
+"#btmImg": {
 	width: 253,
 	height: 59,
 	top: 0
