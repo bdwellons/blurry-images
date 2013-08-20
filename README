@@ -1,1 +1,5 @@
 Titanium / Alloy project illustrating blurring effect nesting views and scrollviews has on image quality.
+
+To run from CLI:
+
+titanium build -p ios
