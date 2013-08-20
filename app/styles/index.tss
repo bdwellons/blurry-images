@@ -33,6 +33,7 @@
 	top: 0
 },
 ".parent": {
-	width: '100%',
+	width: Ti.UI.FILL,
 	height: 59,
+	top: 0
 }
